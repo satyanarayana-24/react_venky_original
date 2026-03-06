@@ -11,7 +11,7 @@ function App() {
         {/* Hero Section */}
         <section id="home" className="fs-hero">
           <div className="fs-hero__content">
-            <p className="fs-pill">New • Spring collection now available</p>
+            <p className="fs-pill">New • Spring collection available</p>
             <h2>Send flowers that speak your heart.</h2>
             <p className="fs-hero__text">
               Curated bouquets, hand-tied by artisans, delivered fresh to your doorstep.
