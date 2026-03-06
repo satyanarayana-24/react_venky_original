@@ -5,7 +5,7 @@ pipeline {
         GIT_REPO        = "https://github.com/veeravenkateswararao/react.git"
         GIT_BRANCH      = "main"
 
-        DOCKERHUB_USER  = "venkyveera"
+        DOCKERHUB_USER  = "9397054542"
         IMAGE_NAME      = "react-app"
         IMAGE_TAG       = "${BUILD_NUMBER}"
 
