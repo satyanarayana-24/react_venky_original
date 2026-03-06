@@ -18,8 +18,8 @@ function App() {
               Perfect for birthdays, anniversaries, or just because.
             </p>
             <div className="fs-hero__actions">
-              <button className="fs-btn fs-btn--primary">Shop bouquets</button>
-              <button className="fs-btn fs-btn--ghost">View occasions</button>
+              <button className="fs-btn fs-btn--primary">Shop</button>
+              <button className="fs-btn fs-btn--ghost">View</button>
             </div>
             <div className="fs-hero__meta">
               <span>Same‑day delivery in select cities</span>
