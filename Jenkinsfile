@@ -9,7 +9,7 @@ pipeline {
         IMAGE_NAME      = "react-app"
         IMAGE_TAG       = "${BUILD_NUMBER}"
 
-        DOCKER_CREDS    = "Docker_CRED"
+        DOCKER_CREDS    = "DockerhubCred"
 
         CONTAINER_NAME  = "react-container"
         HOST_PORT       = "9676"
